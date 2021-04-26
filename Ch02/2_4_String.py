@@ -10,3 +10,7 @@ str2 = 'Python'
 str3 = str1 + str2
 
 print('str3 : ', str3)
+
+# 문자열 곱하기
+name = '홍길동'
+print('name * 3 : ', name * 3)
